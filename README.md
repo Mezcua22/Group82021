@@ -1,6 +1,6 @@
 # Group82021
-modules needed to download
+## Imports Needed
+- Beautiful Soup
+- Flask
+- lxml (for beautiful soup)
 
-flask
-beautiful soup
-lxml
